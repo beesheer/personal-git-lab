@@ -1,3 +1,5 @@
 feature b
 
 feature b c
+
+feature b c 2
